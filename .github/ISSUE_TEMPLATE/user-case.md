@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-***As a*** [[role]]
-***I need*** [[a feature]]
-***so that*** [[a benefit]]
+**As a** [[role]]
+**I need** [[a feature]]
+**so that** [[a benefit]]
 
 Details
 - [[a important detail]]
 
 Acceptance criteria
-***Given*** [[a state]]
+**Given** [[a state]]
 ***When*** [[an action]]
 ***Then*** [[a verifiable result]
