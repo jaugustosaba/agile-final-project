@@ -1,22 +1,23 @@
 ---
 name: User Story
-about: Simple user case
+about: Simple user story
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**As a** [[role]]
-**I need** [[a feature]]
-**so that** [[a benefit]]
+**As a** user
+**I need** to be able to do something important
+**so that** I could benefit from it
 
 ### Details
-- [[a important detail]]
+- an assumption
+- a implementation detail
 
 ### Acceptance criteria
 ```Gherkin
-Given [[a state]]
-When [[an action]]
-Then [[a verifiable result]
+Given the system is in a state
+When an action is requested
+Then a verifiable result is present
 ```
