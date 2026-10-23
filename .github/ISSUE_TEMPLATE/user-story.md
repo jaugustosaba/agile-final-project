@@ -1,5 +1,5 @@
 ---
-name: User Case
+name: User Story
 about: Simple user case
 title: ''
 labels: ''
@@ -11,10 +11,12 @@ assignees: ''
 **I need** [[a feature]]
 **so that** [[a benefit]]
 
-Details
+### Details
 - [[a important detail]]
 
-Acceptance criteria
-**Given** [[a state]]
-***When*** [[an action]]
-***Then*** [[a verifiable result]
+### Acceptance criteria
+```Gherkin
+Given [[a state]]
+When [[an action]]
+Then [[a verifiable result]
+```
